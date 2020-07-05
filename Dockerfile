@@ -1,2 +1,2 @@
 ﻿FROM dockersamples/static-site
-ENY AUTHOR="Hiroki Takamoto"
+ENV AUTHOR="Hiroki Takamoto"
